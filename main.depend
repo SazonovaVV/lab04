@@ -1,0 +1,341 @@
+# depslib dependency file v1.0
+1619683312 source:c:\users\Евгений\source\repos\lab03-histogram\main\histogram.cpp
+	"histogram.h"
+
+1619683351 c:\users\Евгений\source\repos\lab03-histogram\main\histogram.h
+	<vector>
+	<iostream>
+	<math.h>
+	<string>
+
+1619683301 source:c:\users\Евгений\source\repos\lab03-histogram\main\main.cpp
+	"histogram.h"
+	<iostream>
+	<vector>
+	<math.h>
+	<string>
+
+1622089587 source:c:\users\Евгений\source\repos\lab03-histogram\main.cpp
+	<curl/curl.h>
+	"histogram.h"
+	<iostream>
+	<vector>
+	<math.h>
+	<string>
+	<sstream>
+
+1622275369 c:\users\Евгений\source\repos\lab03-histogram\histogram.h
+	<curl/curl.h>
+	<vector>
+	<iostream>
+	<math.h>
+	<string>
+	<sstream>
+	<iomanip>
+	<fstream>
+
+1622275358 source:c:\users\Евгений\source\repos\lab03-histogram\histogram.cpp
+	"histogram.h"
+
+1618204474 c:\users\Евгений\source\repos\lab03-histogram\curl\include\curl\curl.h
+	"curlver.h"
+	"system.h"
+	<stdio.h>
+	<limits.h>
+	<osreldate.h>
+	<sys/types.h>
+	<time.h>
+	<winsock2.h>
+	<ws2tcpip.h>
+	<sys/select.h>
+	<sys/socket.h>
+	<sys/time.h>
+	<support/SupportDefs.h>
+	"easy.h"
+	"multi.h"
+	"urlapi.h"
+	"options.h"
+	"typecheck-gcc.h"
+
+1618369046 c:\users\Евгений\source\repos\lab03-histogram\curl\include\curl\curlver.h
+
+1618201874 c:\users\Евгений\source\repos\lab03-histogram\curl\include\curl\system.h
+	<winsock2.h>
+	<windows.h>
+	<ws2tcpip.h>
+	<sys/types.h>
+	<sys/socket.h>
+	<sys/poll.h>
+
+1618201874 c:\users\Евгений\source\repos\lab03-histogram\curl\include\curl\easy.h
+
+1618201874 c:\users\Евгений\source\repos\lab03-histogram\curl\include\curl\multi.h
+	"curl.h"
+
+1618201874 c:\users\Евгений\source\repos\lab03-histogram\curl\include\curl\urlapi.h
+	"curl.h"
+
+1618201874 c:\users\Евгений\source\repos\lab03-histogram\curl\include\curl\options.h
+
+1618203848 c:\users\Евгений\source\repos\lab03-histogram\curl\include\curl\typecheck-gcc.h
+
+1622373026 source:c:\users\Евгений\source\repos\lab_03\lab03\histogram.cpp
+	"histogram.h"
+
+1622370264 c:\users\Евгений\source\repos\lab_03\lab03\histogram.h
+	<curl/curl.h>
+	<vector>
+	<iostream>
+	<math.h>
+	<string>
+	<sstream>
+	<iomanip>
+	<fstream>
+
+1622370264 c:\users\Евгений\source\repos\lab_03\lab03\curl\include\curl\curl.h
+	"curlver.h"
+	"system.h"
+	<stdio.h>
+	<limits.h>
+	<osreldate.h>
+	<sys/types.h>
+	<time.h>
+	<winsock2.h>
+	<ws2tcpip.h>
+	<sys/select.h>
+	<sys/socket.h>
+	<sys/time.h>
+	<support/SupportDefs.h>
+	"easy.h"
+	"multi.h"
+	"urlapi.h"
+	"options.h"
+	"typecheck-gcc.h"
+
+1622370264 c:\users\Евгений\source\repos\lab_03\lab03\curl\include\curl\curlver.h
+
+1622370264 c:\users\Евгений\source\repos\lab_03\lab03\curl\include\curl\system.h
+	<winsock2.h>
+	<windows.h>
+	<ws2tcpip.h>
+	<sys/types.h>
+	<sys/socket.h>
+	<sys/poll.h>
+
+1622370264 c:\users\Евгений\source\repos\lab_03\lab03\curl\include\curl\easy.h
+
+1622370264 c:\users\Евгений\source\repos\lab_03\lab03\curl\include\curl\multi.h
+	"curl.h"
+
+1622370264 c:\users\Евгений\source\repos\lab_03\lab03\curl\include\curl\urlapi.h
+	"curl.h"
+
+1622370264 c:\users\Евгений\source\repos\lab_03\lab03\curl\include\curl\options.h
+
+1622370264 c:\users\Евгений\source\repos\lab_03\lab03\curl\include\curl\typecheck-gcc.h
+
+1622376439 source:c:\users\Евгений\source\repos\lab_03\lab03\main.cpp
+	<curl/curl.h>
+	"histogram.h"
+	<iostream>
+	<vector>
+	<math.h>
+	<string>
+	<sstream>
+	<windows.h>
+
+1622458078 source:l:\i курс\А-2-20\Ковалев\lab04\lab-04\histogram.cpp
+	"histogram.h"
+
+1622458078 l:\i курс\А-2-20\Ковалев\lab04\lab-04\histogram.h
+	<curl/curl.h>
+	<vector>
+	<iostream>
+	<math.h>
+	<string>
+	<sstream>
+	<iomanip>
+	<fstream>
+
+1622460000 l:\i курс\А-2-20\Ковалев\lab04\lab-04\curl\include\curl\curl.h
+	"curlver.h"
+	"system.h"
+	<stdio.h>
+	<limits.h>
+	<osreldate.h>
+	<sys/types.h>
+	<time.h>
+	<winsock2.h>
+	<ws2tcpip.h>
+	<sys/select.h>
+	<sys/socket.h>
+	<sys/time.h>
+	<support/SupportDefs.h>
+	"easy.h"
+	"multi.h"
+	"urlapi.h"
+	"options.h"
+	"typecheck-gcc.h"
+
+1622460000 l:\i курс\А-2-20\Ковалев\lab04\lab-04\curl\include\curl\curlver.h
+
+1622460000 l:\i курс\А-2-20\Ковалев\lab04\lab-04\curl\include\curl\system.h
+	<winsock2.h>
+	<windows.h>
+	<ws2tcpip.h>
+	<sys/types.h>
+	<sys/socket.h>
+	<sys/poll.h>
+
+1622460000 l:\i курс\А-2-20\Ковалев\lab04\lab-04\curl\include\curl\easy.h
+
+1622460000 l:\i курс\А-2-20\Ковалев\lab04\lab-04\curl\include\curl\multi.h
+	"curl.h"
+
+1622460000 l:\i курс\А-2-20\Ковалев\lab04\lab-04\curl\include\curl\urlapi.h
+	"curl.h"
+
+1622460000 l:\i курс\А-2-20\Ковалев\lab04\lab-04\curl\include\curl\options.h
+
+1622460000 l:\i курс\А-2-20\Ковалев\lab04\lab-04\curl\include\curl\typecheck-gcc.h
+
+1622458078 source:l:\i курс\А-2-20\Ковалев\lab04\lab-04\main.cpp
+	<curl/curl.h>
+	"histogram.h"
+	<iostream>
+	<vector>
+	<math.h>
+	<string>
+	<sstream>
+	<windows.h>
+
+1622458078 source:c:\users\u211-13\desktop\lab-04\histogram.cpp
+	"histogram.h"
+
+1622458078 c:\users\u211-13\desktop\lab-04\histogram.h
+	<curl/curl.h>
+	<vector>
+	<iostream>
+	<math.h>
+	<string>
+	<sstream>
+	<iomanip>
+	<fstream>
+
+1622461613 c:\users\u211-13\desktop\lab-04\curl\include\curl\curl.h
+	"curlver.h"
+	"system.h"
+	<stdio.h>
+	<limits.h>
+	<osreldate.h>
+	<sys/types.h>
+	<time.h>
+	<winsock2.h>
+	<ws2tcpip.h>
+	<sys/select.h>
+	<sys/socket.h>
+	<sys/time.h>
+	<support/SupportDefs.h>
+	"easy.h"
+	"multi.h"
+	"urlapi.h"
+	"options.h"
+	"typecheck-gcc.h"
+
+1622461613 c:\users\u211-13\desktop\lab-04\curl\include\curl\curlver.h
+
+1622461613 c:\users\u211-13\desktop\lab-04\curl\include\curl\system.h
+	<winsock2.h>
+	<windows.h>
+	<ws2tcpip.h>
+	<sys/types.h>
+	<sys/socket.h>
+	<sys/poll.h>
+
+1622461613 c:\users\u211-13\desktop\lab-04\curl\include\curl\easy.h
+
+1622461613 c:\users\u211-13\desktop\lab-04\curl\include\curl\multi.h
+	"curl.h"
+
+1622461613 c:\users\u211-13\desktop\lab-04\curl\include\curl\urlapi.h
+	"curl.h"
+
+1622461613 c:\users\u211-13\desktop\lab-04\curl\include\curl\options.h
+
+1622461613 c:\users\u211-13\desktop\lab-04\curl\include\curl\typecheck-gcc.h
+
+1622463674 source:c:\users\u211-13\desktop\lab-04\main.cpp
+	<curl/curl.h>
+	"histogram.h"
+	<iostream>
+	<vector>
+	<math.h>
+	<string>
+	<sstream>
+	<windows.h>
+
+1623196662 source:c:\users\user\desktop\лаб4\lab-04\histogram.cpp
+	"histogram.h"
+
+1623198199 c:\users\user\desktop\лаб4\lab-04\histogram.h
+	<curl/curl.h>
+	<vector>
+	<iostream>
+	<math.h>
+	<string>
+	<sstream>
+	<iomanip>
+	<fstream>
+
+1623183067 c:\users\user\desktop\лаб4\lab-04\curl\include\curl\curl.h
+	"curlver.h"
+	"system.h"
+	<stdio.h>
+	<limits.h>
+	<osreldate.h>
+	<sys/types.h>
+	<time.h>
+	<winsock2.h>
+	<ws2tcpip.h>
+	<sys/select.h>
+	<sys/socket.h>
+	<sys/time.h>
+	<support/SupportDefs.h>
+	"easy.h"
+	"multi.h"
+	"urlapi.h"
+	"options.h"
+	"typecheck-gcc.h"
+
+1623183068 c:\users\user\desktop\лаб4\lab-04\curl\include\curl\curlver.h
+
+1623183069 c:\users\user\desktop\лаб4\lab-04\curl\include\curl\system.h
+	<winsock2.h>
+	<windows.h>
+	<ws2tcpip.h>
+	<sys/types.h>
+	<sys/socket.h>
+	<sys/poll.h>
+
+1623183068 c:\users\user\desktop\лаб4\lab-04\curl\include\curl\easy.h
+
+1623183069 c:\users\user\desktop\лаб4\lab-04\curl\include\curl\multi.h
+	"curl.h"
+
+1623183070 c:\users\user\desktop\лаб4\lab-04\curl\include\curl\urlapi.h
+	"curl.h"
+
+1623183069 c:\users\user\desktop\лаб4\lab-04\curl\include\curl\options.h
+
+1623183070 c:\users\user\desktop\лаб4\lab-04\curl\include\curl\typecheck-gcc.h
+
+1623198086 source:c:\users\user\desktop\лаб4\lab-04\main.cpp
+	<curl/curl.h>
+	"histogram.h"
+	<iostream>
+	<vector>
+	<math.h>
+	<string>
+	<sstream>
+	<windows.h>
+
